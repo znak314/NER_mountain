@@ -42,8 +42,8 @@ Mont Blanc dominates the Alps as its tallest peak.
 | "its"       | `O`             | `O`          |
 | "tallest"       | `O`             | `O`          |
 | "peak"       | `O`             | `O`          |
-`Output after post-processing:`
 
+`Output after post-processing:`
 **Mont Blanc** (Mountains) dominates the **Alps** (Mountains) as its tallest peak.
 
 ### Possible issues

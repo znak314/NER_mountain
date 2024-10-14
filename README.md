@@ -54,7 +54,7 @@ Sometimes, when we receive a mountain name consisting of two words, we get two c
    Clone this repository to your local machine using:
 
    ```bash
-   git clone git clone https://github.com/znak314/NER_mountain.git
+   git clone https://github.com/znak314/NER_mountain.git
    ```
 ### 2. **Install all necessary libraries**
    Install all dependencies by using:
